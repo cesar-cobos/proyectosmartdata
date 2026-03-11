@@ -149,7 +149,7 @@ jobs:
               "max_retries": 2,
               "depends_on": [
                 {
-                  "task_key": "tarea1_notebook1"
+                  "task_key": "prueba"
                 }
               ]
             }
